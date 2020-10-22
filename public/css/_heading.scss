@@ -11,6 +11,7 @@ text-align: center;
 .text{
     font-size: 50px;
     font-weight: 600px;
+    color: $red;
 }
 
 .wrapper{
@@ -22,7 +23,7 @@ text-align: center;
 
     .text{
         white-space: nowrap;
-        color: $red;
+        color: $black;
         
         transition-duration: 1s;
     }
